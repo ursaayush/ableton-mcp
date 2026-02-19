@@ -1,0 +1,16 @@
+[project]
+name = "ableton-mcp"
+version = "0.1.0"
+description = "MCP server for full Ableton Live control via AbletonOSC + ClyphX Pro"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp",
+    "python-osc",
+]
+
+[project.scripts]
+ableton-mcp = "ableton_mcp.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
