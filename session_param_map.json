@@ -1,0 +1,5647 @@
+{
+  "bpm": 90.0,
+  "tracks": {
+    "NATURE": {
+      "track_index": 5,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.6133711338043213,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.48753461241722107,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.3801652789115906,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    },
+    "BREATH": {
+      "track_index": 6,
+      "devices": {
+        "0_Breath effect rack": {
+          "device_index": 0,
+          "device_name": "Breath effect rack",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Macro 1": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 2": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 3": {
+              "index": 3,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 4": {
+              "index": 4,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 5": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 6": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 7": {
+              "index": 7,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 8": {
+              "index": 8,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 9": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 10": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 11": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 12": {
+              "index": 12,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 13": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 14": {
+              "index": 14,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 15": {
+              "index": 15,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 16": {
+              "index": 16,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Chain Selector": {
+              "index": 17,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            }
+          }
+        }
+      }
+    },
+    "DRUMS": {
+      "track_index": 7,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_Glue Compressor": {
+          "device_index": 1,
+          "device_name": "Glue Compressor",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Threshold": {
+              "index": 1,
+              "value": -20.0,
+              "min": -40.0,
+              "max": 0.0
+            },
+            "Range": {
+              "index": 2,
+              "value": 70.0,
+              "min": 0.0,
+              "max": 70.0
+            },
+            "Makeup": {
+              "index": 3,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 20.0
+            },
+            "Attack": {
+              "index": 4,
+              "value": 4.0,
+              "min": 0.0,
+              "max": 6.0
+            },
+            "Ratio": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Release": {
+              "index": 6,
+              "value": 4.0,
+              "min": 0.0,
+              "max": 6.0
+            },
+            "Dry/Wet": {
+              "index": 7,
+              "value": 0.5,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Peak Clip In": {
+              "index": 8,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C On": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Gain": {
+              "index": 10,
+              "value": 0.4000000059604645,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Mix": {
+              "index": 11,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Type": {
+              "index": 12,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 5.0
+            },
+            "S/C EQ On": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Freq": {
+              "index": 14,
+              "value": 0.3052678406238556,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Gain": {
+              "index": 15,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "S/C EQ Q": {
+              "index": 16,
+              "value": 0.40856707096099854,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "2_EQ Eight": {
+          "device_index": 2,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.13850416243076324,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.35537189245224,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    },
+    "PERC_MID": {
+      "track_index": 8,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.2936288118362427,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.3719008266925812,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "2_Glue Compressor": {
+          "device_index": 2,
+          "device_name": "Glue Compressor",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Threshold": {
+              "index": 1,
+              "value": -13.015872955322266,
+              "min": -40.0,
+              "max": 0.0
+            },
+            "Range": {
+              "index": 2,
+              "value": 70.0,
+              "min": 0.0,
+              "max": 70.0
+            },
+            "Makeup": {
+              "index": 3,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 20.0
+            },
+            "Attack": {
+              "index": 4,
+              "value": 4.0,
+              "min": 0.0,
+              "max": 6.0
+            },
+            "Ratio": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Release": {
+              "index": 6,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 6.0
+            },
+            "Dry/Wet": {
+              "index": 7,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Peak Clip In": {
+              "index": 8,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C On": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Gain": {
+              "index": 10,
+              "value": 0.4000000059604645,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Mix": {
+              "index": 11,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Type": {
+              "index": 12,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 5.0
+            },
+            "S/C EQ On": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Freq": {
+              "index": 14,
+              "value": 0.3052678406238556,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Gain": {
+              "index": 15,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "S/C EQ Q": {
+              "index": 16,
+              "value": 0.40856707096099854,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    },
+    "PERC_HI": {
+      "track_index": 9,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.3462603986263275,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.3801652789115906,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "2_Glue Compressor": {
+          "device_index": 2,
+          "device_name": "Glue Compressor",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Threshold": {
+              "index": 1,
+              "value": -16.507936477661133,
+              "min": -40.0,
+              "max": 0.0
+            },
+            "Range": {
+              "index": 2,
+              "value": 70.0,
+              "min": 0.0,
+              "max": 70.0
+            },
+            "Makeup": {
+              "index": 3,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 20.0
+            },
+            "Attack": {
+              "index": 4,
+              "value": 4.0,
+              "min": 0.0,
+              "max": 6.0
+            },
+            "Ratio": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Release": {
+              "index": 6,
+              "value": 4.0,
+              "min": 0.0,
+              "max": 6.0
+            },
+            "Dry/Wet": {
+              "index": 7,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Peak Clip In": {
+              "index": 8,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C On": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Gain": {
+              "index": 10,
+              "value": 0.4000000059604645,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Mix": {
+              "index": 11,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Type": {
+              "index": 12,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 5.0
+            },
+            "S/C EQ On": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Freq": {
+              "index": 14,
+              "value": 0.3052678406238556,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Gain": {
+              "index": 15,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "S/C EQ Q": {
+              "index": 16,
+              "value": 0.40856707096099854,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    },
+    "GUITAR": {
+      "track_index": 10,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.4515235424041748,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.38842976093292236,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "2_Audio Effect Rack": {
+          "device_index": 2,
+          "device_name": "Audio Effect Rack",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Macro 1": {
+              "index": 1,
+              "value": 20.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 2": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 3": {
+              "index": 3,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 4": {
+              "index": 4,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 5": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 6": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 7": {
+              "index": 7,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 8": {
+              "index": 8,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 9": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 10": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 11": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 12": {
+              "index": 12,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 13": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 14": {
+              "index": 14,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 15": {
+              "index": 15,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 16": {
+              "index": 16,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Chain Selector": {
+              "index": 17,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            }
+          }
+        }
+      }
+    },
+    "MELODY": {
+      "track_index": 11,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.3499999940395355,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.39669421315193176,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "2_Audio Effect Rack": {
+          "device_index": 2,
+          "device_name": "Audio Effect Rack",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Macro 1": {
+              "index": 1,
+              "value": 110.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 2": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 3": {
+              "index": 3,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 4": {
+              "index": 4,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 5": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 6": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 7": {
+              "index": 7,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 8": {
+              "index": 8,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 9": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 10": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 11": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 12": {
+              "index": 12,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 13": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 14": {
+              "index": 14,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 15": {
+              "index": 15,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Macro 16": {
+              "index": 16,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            },
+            "Chain Selector": {
+              "index": 17,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 127.0
+            }
+          }
+        }
+      }
+    },
+    "BASS": {
+      "track_index": 12,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_Compressor": {
+          "device_index": 1,
+          "device_name": "Compressor",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Threshold": {
+              "index": 1,
+              "value": 0.33944955468177795,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Ratio": {
+              "index": 2,
+              "value": 0.6666666865348816,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Expansion Ratio": {
+              "index": 3,
+              "value": 1.149999976158142,
+              "min": 1.0,
+              "max": 2.0
+            },
+            "Attack": {
+              "index": 4,
+              "value": 0.460206001996994,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Release": {
+              "index": 5,
+              "value": 0.1746031790971756,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Auto Release On/Off": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 7,
+              "value": 0.0,
+              "min": -36.0,
+              "max": 36.0
+            },
+            "Makeup": {
+              "index": 8,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Dry/Wet": {
+              "index": 9,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Model": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Env Mode": {
+              "index": 11,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Knee": {
+              "index": 12,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 18.0
+            },
+            "LookAhead": {
+              "index": 13,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "S/C Listen": {
+              "index": 14,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ On": {
+              "index": 15,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Type": {
+              "index": 16,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 5.0
+            },
+            "S/C EQ Freq": {
+              "index": 17,
+              "value": 0.2380952388048172,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Q": {
+              "index": 18,
+              "value": 0.40856707096099854,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C EQ Gain": {
+              "index": 19,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "S/C On": {
+              "index": 20,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Gain": {
+              "index": 21,
+              "value": 0.4000000059604645,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "S/C Mix": {
+              "index": 22,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    },
+    "ARPS": {
+      "track_index": 13,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.4459833800792694,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.38842976093292236,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    },
+    "PADS": {
+      "track_index": 14,
+      "devices": {
+        "0_Utility": {
+          "device_index": 0,
+          "device_name": "Utility",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Left Inv": {
+              "index": 1,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Right Inv": {
+              "index": 2,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Channel Mode": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 3.0
+            },
+            "Stereo Width": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 2.0
+            },
+            "Mono": {
+              "index": 5,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Mono": {
+              "index": 6,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Bass Freq": {
+              "index": 7,
+              "value": 0.3802112340927124,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Balance": {
+              "index": 8,
+              "value": 0.0,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Gain": {
+              "index": 9,
+              "value": -0.1714285910129547,
+              "min": -1.0,
+              "max": 1.0
+            },
+            "Mute": {
+              "index": 10,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "DC Filter": {
+              "index": 11,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        },
+        "1_EQ Eight": {
+          "device_index": 1,
+          "device_name": "EQ Eight",
+          "params": {
+            "Device On": {
+              "index": 0,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "Output Gain": {
+              "index": 1,
+              "value": 0.0,
+              "min": -12.0,
+              "max": 12.0
+            },
+            "Scale": {
+              "index": 2,
+              "value": 1.0,
+              "min": -2.0,
+              "max": 2.0
+            },
+            "Adaptive Q": {
+              "index": 3,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On A": {
+              "index": 4,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type A": {
+              "index": 5,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency A": {
+              "index": 6,
+              "value": 0.07999999821186066,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain A": {
+              "index": 7,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance A": {
+              "index": 8,
+              "value": 0.38842976093292236,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter On B": {
+              "index": 9,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Filter Type B": {
+              "index": 10,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "1 Frequency B": {
+              "index": 11,
+              "value": 0.1801268309354782,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "1 Gain B": {
+              "index": 12,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "1 Resonance B": {
+              "index": 13,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On A": {
+              "index": 14,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type A": {
+              "index": 15,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency A": {
+              "index": 16,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain A": {
+              "index": 17,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance A": {
+              "index": 18,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter On B": {
+              "index": 19,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Filter Type B": {
+              "index": 20,
+              "value": 2.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "2 Frequency B": {
+              "index": 21,
+              "value": 0.3892475962638855,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "2 Gain B": {
+              "index": 22,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "2 Resonance B": {
+              "index": 23,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On A": {
+              "index": 24,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type A": {
+              "index": 25,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency A": {
+              "index": 26,
+              "value": 0.5983683466911316,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain A": {
+              "index": 27,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance A": {
+              "index": 28,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter On B": {
+              "index": 29,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Filter Type B": {
+              "index": 30,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "3 Frequency B": {
+              "index": 31,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "3 Gain B": {
+              "index": 32,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "3 Resonance B": {
+              "index": 33,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On A": {
+              "index": 34,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type A": {
+              "index": 35,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency A": {
+              "index": 36,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain A": {
+              "index": 37,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance A": {
+              "index": 38,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter On B": {
+              "index": 39,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Filter Type B": {
+              "index": 40,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "4 Frequency B": {
+              "index": 41,
+              "value": 0.5083049535751343,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "4 Gain B": {
+              "index": 42,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "4 Resonance B": {
+              "index": 43,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On A": {
+              "index": 44,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type A": {
+              "index": 45,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency A": {
+              "index": 46,
+              "value": 0.2991841733455658,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain A": {
+              "index": 47,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance A": {
+              "index": 48,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter On B": {
+              "index": 49,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Filter Type B": {
+              "index": 50,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "5 Frequency B": {
+              "index": 51,
+              "value": 0.6884317994117737,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "5 Gain B": {
+              "index": 52,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "5 Resonance B": {
+              "index": 53,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On A": {
+              "index": 54,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type A": {
+              "index": 55,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency A": {
+              "index": 56,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain A": {
+              "index": 57,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance A": {
+              "index": 58,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter On B": {
+              "index": 59,
+              "value": 1.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Filter Type B": {
+              "index": 60,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "6 Frequency B": {
+              "index": 61,
+              "value": 0.8975525498390198,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "6 Gain B": {
+              "index": 62,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "6 Resonance B": {
+              "index": 63,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On A": {
+              "index": 64,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type A": {
+              "index": 65,
+              "value": 3.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency A": {
+              "index": 66,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain A": {
+              "index": 67,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance A": {
+              "index": 68,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter On B": {
+              "index": 69,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Filter Type B": {
+              "index": 70,
+              "value": 5.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "7 Frequency B": {
+              "index": 71,
+              "value": 0.8074891567230225,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "7 Gain B": {
+              "index": 72,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "7 Resonance B": {
+              "index": 73,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On A": {
+              "index": 74,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type A": {
+              "index": 75,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency A": {
+              "index": 76,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain A": {
+              "index": 77,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance A": {
+              "index": 78,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter On B": {
+              "index": 79,
+              "value": 0.0,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Filter Type B": {
+              "index": 80,
+              "value": 6.0,
+              "min": 0.0,
+              "max": 7.0
+            },
+            "8 Frequency B": {
+              "index": 81,
+              "value": 0.9739260673522949,
+              "min": 0.0,
+              "max": 1.0
+            },
+            "8 Gain B": {
+              "index": 82,
+              "value": 0.0,
+              "min": -15.0,
+              "max": 15.0
+            },
+            "8 Resonance B": {
+              "index": 83,
+              "value": 0.37666621804237366,
+              "min": 0.0,
+              "max": 1.0
+            }
+          }
+        }
+      }
+    }
+  }
+}
